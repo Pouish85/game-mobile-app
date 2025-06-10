@@ -1,34 +1,26 @@
-<div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Memorygame" />
-
-  &#xa0;
-
-  <!-- <a href="https://memorygame.netlify.app">Demo</a> -->
-</div>
-
 <h1 align="center">Game mobile App</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/Pouish85/memorygame?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/Pouish85/game-mobile-app?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/Pouish85/memorygame?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/Pouish85/game-mobile-app?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Pouish85/memorygame?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Pouish85/game-mobile-app?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/Pouish85/memorygame?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/Pouish85/game-mobile-app?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/Pouish85/memorygame?color=56BEB8" /> -->
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/Pouish85/game-mobile-app?color=56BEB8" /> -->
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/Pouish85/memorygame?color=56BEB8" /> -->
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/Pouish85/game-mobile-app?color=56BEB8" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/Pouish85/memorygame?color=56BEB8" /> -->
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/Pouish85/game-mobile-app?color=56BEB8" /> -->
 </p>
 
 <!-- Status -->
 
-<h4 align="center"> 
+<h1 align="center"> 
 	🚧  Game mobile App 🚀 Under construction...  🚧
-</h4> 
+</h1> 
 
 <hr>
 
